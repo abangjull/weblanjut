@@ -81,8 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Abignego Warren Desembri Hutagalung<br>
-                    1755201412
+                    Riezky Zulfikar Nurmuhammad<br>
+                    1755201417
                 </div>
 
                 <div class="links">
